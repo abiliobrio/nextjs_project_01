@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Home - Teste Next.js in Vercel</div>
+    return <div>Página Inicial</div>
 }
 
 export default Home
